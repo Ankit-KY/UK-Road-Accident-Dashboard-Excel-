@@ -9,7 +9,7 @@
 
 - **Purpose of Dashboard:** Giving an insightful data about casualties and the vehicle types which are most included in road accident casualties to stakeholders to analyze accident patterns, identify hotspots, and develop targeted interventions to save lives and prevent injuries.
 
-- **Primary KPIs:**  Primary KPIs include total casualties taken place after the accident, total casualties & percentage of total with respect to accident severity and maximum casualties by type of vehicle_[KPIs](https://github.com/Ankit-KY/UK-Road-Accident-Dashboard-Excel-/blob/main/KPI%20Calculations.png)_
+- **Primary KPIs:**  Primary KPIs include total casualties taken place after the accident, total casualties & percentage of total with respect to accident severity and maximum casualties by type of vehicle_[KPIs](https://github.com/Ankit-KY/UK-Road-Accident-Dashboard-Excel-/blob/main/KPI%20Calculations.png)
 
 - **Secondary KPIs:** Secondary KPIs include total casualties with respect to vehicle type, monthly trend showing comparison of casualties for current year and previous year, maximum casualties by road type, distribution of total casualties by road surface, relation between casualties by area/location & day/night.
 
